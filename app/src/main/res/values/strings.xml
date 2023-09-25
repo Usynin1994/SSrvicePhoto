@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSrvicePhoto</string>
+    <string name="write_folder_name">Введи название папки</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="save">Сохранить</string>
+    <string name="error">Что-то пошло не так</string>
+</resources>
